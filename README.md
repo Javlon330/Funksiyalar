@@ -1,0 +1,2 @@
+# Funksiyalar
+Fibanacci,Prime numbers,
