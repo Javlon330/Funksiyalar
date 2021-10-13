@@ -15,3 +15,4 @@ def fibanacci(n):
             fibanacci_numbers.append(fibanacci_numbers[x-1]+fibanacci_numbers[x-2])
     return fibanacci_numbers
 print(fibanacci(6))
+ 
